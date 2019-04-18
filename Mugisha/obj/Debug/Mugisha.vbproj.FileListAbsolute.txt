@@ -1,0 +1,12 @@
+C:\project\Mugisha\Mugisha\bin\Debug\Mugisha.exe.config
+C:\project\Mugisha\Mugisha\bin\Debug\Mugisha.exe
+C:\project\Mugisha\Mugisha\bin\Debug\Mugisha.pdb
+C:\project\Mugisha\Mugisha\bin\Debug\Mugisha.xml
+C:\project\Mugisha\Mugisha\obj\Debug\Mugisha.vbprojAssemblyReference.cache
+C:\project\Mugisha\Mugisha\obj\Debug\Mugisha.Form1.resources
+C:\project\Mugisha\Mugisha\obj\Debug\Mugisha.Resources.resources
+C:\project\Mugisha\Mugisha\obj\Debug\Mugisha.vbproj.GenerateResource.cache
+C:\project\Mugisha\Mugisha\obj\Debug\Mugisha.vbproj.CoreCompileInputs.cache
+C:\project\Mugisha\Mugisha\obj\Debug\Mugisha.exe
+C:\project\Mugisha\Mugisha\obj\Debug\Mugisha.xml
+C:\project\Mugisha\Mugisha\obj\Debug\Mugisha.pdb
